@@ -1,0 +1,16 @@
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\bin\Debug\netcoreapp3.1\WinFormsApp32.exe
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\bin\Debug\netcoreapp3.1\WinFormsApp32.deps.json
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\bin\Debug\netcoreapp3.1\WinFormsApp32.runtimeconfig.json
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\bin\Debug\netcoreapp3.1\WinFormsApp32.runtimeconfig.dev.json
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\bin\Debug\netcoreapp3.1\WinFormsApp32.dll
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\bin\Debug\netcoreapp3.1\WinFormsApp32.pdb
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.csproj.AssemblyReference.cache
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.Form1.resources
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.csproj.GenerateResource.cache
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.AssemblyInfoInputs.cache
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.AssemblyInfo.cs
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.csproj.CoreCompileInputs.cache
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.dll
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.pdb
+C:\Users\Arzuc\source\repos\WinFormsApp32\WinFormsApp32\obj\Debug\netcoreapp3.1\WinFormsApp32.genruntimeconfig.cache
