@@ -1,0 +1,17 @@
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\bin\Debug\netcoreapp3.1\formlar arası geçiş ödevi.exe
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\bin\Debug\netcoreapp3.1\formlar arası geçiş ödevi.deps.json
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\bin\Debug\netcoreapp3.1\formlar arası geçiş ödevi.runtimeconfig.json
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\bin\Debug\netcoreapp3.1\formlar arası geçiş ödevi.runtimeconfig.dev.json
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\bin\Debug\netcoreapp3.1\formlar arası geçiş ödevi.dll
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\bin\Debug\netcoreapp3.1\formlar arası geçiş ödevi.pdb
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.csproj.AssemblyReference.cache
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar_arası_geçiş_ödevi.Form1.resources
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar_arası_geçiş_ödevi.Form2.resources
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.csproj.GenerateResource.cache
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.AssemblyInfoInputs.cache
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.AssemblyInfo.cs
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.dll
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.pdb
+C:\Users\Arzuc\source\repos\formlar arası geçiş ödevi\formlar arası geçiş ödevi\obj\Debug\netcoreapp3.1\formlar arası geçiş ödevi.genruntimeconfig.cache

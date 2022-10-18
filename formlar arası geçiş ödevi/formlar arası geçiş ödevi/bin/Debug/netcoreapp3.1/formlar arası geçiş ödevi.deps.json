@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "formlar arası geçiş ödevi/1.0.0": {
+        "runtime": {
+          "formlar arası geçiş ödevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formlar arası geçiş ödevi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
